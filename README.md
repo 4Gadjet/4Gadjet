@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4Gadjet
 - 👀 I’m interested in programming, game developing and 3D-Design
-- 🌱 I’m currently learning C++, C#, QT Creator, Blender 3D and another
+- 🌱 I’m currently learning C++, C#, QT Creator, Blender 3D, PGSQL, MSSQL and another
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
